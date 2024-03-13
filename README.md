@@ -37,6 +37,6 @@
 
 ## Find me
 
-[![Linkedin](https://img.shields.io/badge/-luara--perilli-33672022a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luara-perilli-33672022a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/luara-perilli-33672022a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Linkedin](https://img.shields.io/badge/-luara--perilli-33672022a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luara-perilli-33672022a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/luara-perilli-33672022a)
 [![Gmail Badge](https://img.shields.io/badge/-luaraperilli%40hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luaraperilli@hotmail.com)](mailto:luaraperilli@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/luaraperilli?label=follow&style=social)](https://github.com/luaraperilli)
