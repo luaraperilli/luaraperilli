@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #ff69b4;">Luara Perilli</h1>
+<h1 align="center" style="color: #ff69b4;">Hi 👋, I'm Luara Perilli</h1>
 <h3 align="center">Passionate Full Stack Developer from Brazil, dedicated to mastering both front-end and back-end technologies</h3>
 
 - 🔭 I’m currently working on [imperiya.tech](https://github.com/imperiyatech)
@@ -16,6 +16,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+  <!-- Add other icons for languages and tools as needed -->
 </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=luaraperilli&show_icons=true&locale=en&layout=compact" alt="luaraperilli" /></p>
