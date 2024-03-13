@@ -30,9 +30,9 @@
 [![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=phpstorm)](https://www.jetbrains.com/phpstorm/)
 
 <br/>
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luaraperilli&show_icons=true&locale=en&layout=compact" alt="luaraperilli" />
-</div>
+</p>
 
 ## Find me
 
