@@ -1,6 +1,4 @@
-![](https://komarev.com/ghpvc/?username=luaraperilli&color=006bed)
-
-<h1 align="center" style="color: #ff69b4;">Luara Perilli</h1>
+<h1 align="center" style="color: #ff69b2;">Luara Perilli</h1>
 
 ## About me
 
@@ -37,8 +35,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luaraperilli&theme=dracula&show_icons=true" />
 </a>
 
-## Where to find me
+## Find me
 
-[![Linkedin](https://img.shields.io/badge/-luara--perilli-33672022a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luara-perilli-33672022a/)](https://www.linkedin.com/in/luara-perilli-33672022a/)
+[![Linkedin](https://img.shields.io/badge/-luara--perilli-33672022a-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luara-perilli-33672022a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/luara-perilli-33672022a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![Gmail Badge](https://img.shields.io/badge/-luaraperilli%40hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luaraperilli@hotmail.com)](mailto:luaraperilli@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/luaraperilli?label=follow&style=social)](https://github.com/luaraperilli)
