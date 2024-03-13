@@ -31,9 +31,7 @@
 
 <br/>
 
-<a href="https://github.com/luaraperilli" title="Luara's Profile">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luaraperilli&theme=dracula&show_icons=true" />
-</a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luaraperilli&show_icons=true&locale=en&layout=compact" alt="luaraperilli" /></p>
 
 ## Find me
 
