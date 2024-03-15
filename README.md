@@ -26,8 +26,8 @@
 **Development Tools**
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/)
-[![Code::Blocks](https://img.shields.io/badge/-Code::Blocks-333333?style=flat&logo=codeblocks)](http://www.codeblocks.org/)
 [![PhpStorm](https://img.shields.io/badge/-PhpStorm-333333?style=flat&logo=phpstorm)](https://www.jetbrains.com/phpstorm/)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 
 <br/>
 <p align="center">
