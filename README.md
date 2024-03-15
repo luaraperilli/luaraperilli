@@ -4,7 +4,7 @@
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Undergraduate student in Information Systems at the Federal University of Itajubá.
-- 💼 Working as a Full Stack Developer at MV Power.
+- 💼 Working as a Full Stack Developer Intern at MV Power
 - 🌱 Learning more about HTML, CSS, JavaScript, Bootstrap, React, Laravel, MySQL.
 
 ## Skills
@@ -20,8 +20,6 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)](https://www.mysql.com/)
 [![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)](https://pandas.pydata.org/)
-[![Seaborn](https://img.shields.io/badge/-Seaborn-333333?style=flat&logo=seaborn)](https://seaborn.pydata.org/)
 
 **Development Tools**
 
