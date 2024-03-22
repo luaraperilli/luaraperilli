@@ -5,7 +5,7 @@
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Undergraduate student in Information Systems at the Federal University of Itajubá.
 - 💼 Working as a Full Stack Developer Intern at MV Power
-- 🌱 Learning more about HTML, CSS, JavaScript, Bootstrap, React, Laravel, MySQL.
+- 🌱 Learning more about HTML, CSS, JavaScript, Bootstrap, Laravel, MySQL.
 
 ## Skills
 
