@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #ff69b2;">Luara Perilli</h1>
 
-## About me
+## About Me
 
 - 🔍 QA Engineer & Full Stack Developer at the Ayn Rand Institute.
 - 🎓 Degree in Information Systems from the Federal University of Itajubá.
@@ -29,9 +29,9 @@
 
 **CMS & Platforms**
 
-[![Payload CMS](https://img.shields.io/badge/-Payload%20CMS-333333?style=flat&logo=payload)](https://payloadcms.com/)
+[![Payload CMS](https://img.shields.io/badge/-Payload%20CMS-333333?style=flat)](https://payloadcms.com/)
 [![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)](https://wordpress.org/)
-[![BuddyBoss](https://img.shields.io/badge/-BuddyBoss-333333?style=flat&logo=buddypress)](https://www.buddyboss.com/)
+[![BuddyBoss](https://img.shields.io/badge/-BuddyBoss-333333?style=flat)](https://www.buddyboss.com/)
 [![HubSpot](https://img.shields.io/badge/-HubSpot-333333?style=flat&logo=hubspot)](https://www.hubspot.com/)
 
 **Development Tools**
@@ -41,12 +41,11 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)](https://gitlab.com/)
 [![ClickUp](https://img.shields.io/badge/-ClickUp-333333?style=flat&logo=clickup)](https://clickup.com/)
 
-<br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luaraperilli&show_icons=true&locale=en&layout=compact" alt="luaraperilli" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luaraperilli&show_icons=true&locale=en&layout=compact&theme=dark" alt="luaraperilli" />
 </p>
 
-## Find me
+## Find Me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-luaraperilli-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luaraperilli)
 [![Gmail Badge](https://img.shields.io/badge/-luaradoval%40gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luaradoval@gmail.com)](mailto:luaradoval@gmail.com)
