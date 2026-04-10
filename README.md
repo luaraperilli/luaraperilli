@@ -41,8 +41,14 @@
 [![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)](https://gitlab.com/)
 [![ClickUp](https://img.shields.io/badge/-ClickUp-333333?style=flat&logo=clickup)](https://clickup.com/)
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luaraperilli&show_icons=true&locale=en&layout=compact&theme=dark" alt="luaraperilli" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luaraperilli&theme=dark&hide_border=true" alt="luaraperilli" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luaraperilli&theme=github-dark&hide_border=true&area=true" alt="luaraperilli" />
 </p>
 
 ## Find Me
