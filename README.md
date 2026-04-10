@@ -42,9 +42,12 @@
 [![ClickUp](https://img.shields.io/badge/-ClickUp-333333?style=flat&logo=clickup)](https://clickup.com/)
 
 <br/>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=luaraperilli&theme=dark&hide_border=true" alt="luaraperilli" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luaraperilli&theme=darkhub&no-frame=true&row=1&column=6" alt="luaraperilli" />
 </p>
 
 <p align="center">
